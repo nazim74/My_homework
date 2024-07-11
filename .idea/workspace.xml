@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfc241d5-8e4e-4608-adec-1e7e209b176e" name="Changes" comment="add file">
-      <change afterPath="$PROJECT_DIR$/homework6.py" afterDir="false" />
+    <list default="true" id="dfc241d5-8e4e-4608-adec-1e7e209b176e" name="Changes" comment="completing the task">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -237,7 +236,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720679854517</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="completing the task">
+      <option name="closed" value="true" />
+      <created>1720689451388</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1720689451388</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -253,6 +260,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add file" />
-    <option name="LAST_COMMIT_MESSAGE" value="add file" />
+    <MESSAGE value="completing the task" />
+    <option name="LAST_COMMIT_MESSAGE" value="completing the task" />
   </component>
 </project>

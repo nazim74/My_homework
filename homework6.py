@@ -4,8 +4,7 @@ print('Existing value: ', my_dict['Nazim'])
 print('Not existing value: ', my_dict.get('Boris'))
 my_dict['Rick'] = 1967
 my_dict['Morty'] = 2011
-deleted_value = my_dict['Nazim']
-del my_dict['Nazim']
+deleted_value = my_dict.pop('Morty')
 print('Deleted value: ', deleted_value)
 print(my_dict)
 
