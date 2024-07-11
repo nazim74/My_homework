@@ -15,5 +15,3 @@ my_set.add(777)
 my_set.remove(False)
 list_ = [2, 3, 2, 2]
 print('Modified set: ', my_set)
-#list_ = [2, 3, 2, 2] не разобрался
-#print(my_set(list_))
