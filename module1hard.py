@@ -13,8 +13,8 @@ grades_midl = grades_block_1, grades_block_2, grades_block_3, grades_block_4, gr
 students_list = list(students)
 #print(students_list)
 #форматируем список по алфавиту
-students_list_sort = sorted(students_list)
+students_list_sort = sorted(students_list) #не нашел на лекциях
 #print(students_list_sort)
 #создаем новый словарь
-new_student_list = dict(zip(students_list_sort, grades_midl))
+new_student_list = dict(zip(students_list_sort, grades_midl)) #не нашел на лекциях
 print(new_student_list)
