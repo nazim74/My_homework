@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfc241d5-8e4e-4608-adec-1e7e209b176e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/mayn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_2/module_2_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_2/module_2_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_2/module_2_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +67,7 @@
     "Python.homework6.executor": "Debug",
     "Python.mayn.executor": "Debug",
     "Python.module1hard.executor": "Run",
+    "Python.module_2_2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/nazim/Library/Mobile Documents/com~apple~CloudDocs/urban-university/nazim74/homework",
@@ -282,7 +282,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720824165828</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="completing the task">
+      <option name="closed" value="true" />
+      <created>1720971292706</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1720971292706</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
