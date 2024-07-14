@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfc241d5-8e4e-4608-adec-1e7e209b176e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/module_2/module_2_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_2/module_2_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_2/module_2_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,12 +62,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.homework0.executor": "Run",
+    "Python.homework1.executor": "Run",
     "Python.homework3.executor": "Run",
-    "Python.homework5.executor": "Debug",
-    "Python.homework6.executor": "Debug",
+    "Python.homework5.executor": "Run",
+    "Python.homework6.executor": "Run",
     "Python.mayn.executor": "Debug",
     "Python.module1hard.executor": "Run",
     "Python.module_2_2.executor": "Run",
+    "Python.module_2_3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/nazim/Library/Mobile Documents/com~apple~CloudDocs/urban-university/nazim74/homework",
@@ -290,7 +292,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720971292706</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="completing the task">
+      <option name="closed" value="true" />
+      <created>1720983153557</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1720983153557</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
