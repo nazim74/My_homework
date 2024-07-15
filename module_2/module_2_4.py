@@ -10,10 +10,9 @@ for number in numbers:
         if number % i == 0: #если нет остатка - число не простое
             is_prime = False
             break
-    if is_prime == True:
+    if is_prime == False:
         not_primes.append(number)
     else:
         primes.append(number)
-print("Not Primes:", not_primes)
 print("Primes:", primes)
-
+print("Not Primes:", not_primes)
