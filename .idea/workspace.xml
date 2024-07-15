@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfc241d5-8e4e-4608-adec-1e7e209b176e" name="Changes" comment="completing the task">
+      <change afterPath="$PROJECT_DIR$/module_2/module_2_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_2/module_2_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_2/module_2_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2j4LbHNxhXqeITtTadv6vpTZUpJ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -63,7 +65,9 @@
     "Python.homework3.executor": "Run",
     "Python.homework5.executor": "Run",
     "Python.homework6.executor": "Run",
+    "Python.module1hard.executor": "Run",
     "Python.module_2_3.executor": "Run",
+    "Python.module_2_4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/nazim/Library/Mobile Documents/com~apple~CloudDocs/urban-university/nazim74/homework",
@@ -262,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720700386725</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="completing the task">
+      <option name="closed" value="true" />
+      <created>1721022216937</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1721022216937</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
