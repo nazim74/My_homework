@@ -5,7 +5,8 @@ def get_matrix(n, m, value):
        for j in range(m):
            string.append(value)
       matrix.append(string)
-
+get_matrix()
+print()
 
 
 
