@@ -6,15 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dfc241d5-8e4e-4608-adec-1e7e209b176e" name="Changes" comment="completing the task">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework0.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/module1hard.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mayn.py" beforeDir="false" afterPath="$PROJECT_DIR$/mayn.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,23 +62,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.homework0.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module1hard.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_2_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_2_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_2_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/nazim/Library/Mobile Documents/com~apple~CloudDocs/urban-university/nazim74/homework&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.homework0.executor": "Run",
+    "Python.homework3.executor": "Run",
+    "Python.homework5.executor": "Run",
+    "Python.homework6.executor": "Run",
+    "Python.mayn.executor": "Run",
+    "Python.module1hard.executor": "Run",
+    "Python.module_2_3.executor": "Run",
+    "Python.module_2_4.executor": "Run",
+    "Python.module_2_5.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/nazim/Library/Mobile Documents/com~apple~CloudDocs/urban-university/nazim74/homework",
+    "settings.editor.selected.configurable": "preferences.editor.code.editing"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="homework5" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="homework" />
@@ -319,7 +312,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721117955291</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="completing the task">
+      <option name="closed" value="true" />
+      <created>1721120308570</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1721120308570</updated>
+    </task>
+    <task id="LOCAL-00026" summary="completing the task">
+      <option name="closed" value="true" />
+      <created>1721120418641</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1721120418641</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
