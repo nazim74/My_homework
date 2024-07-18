@@ -29,5 +29,5 @@ def get_formatted_name(first_name = input('name: '), middle_name = input('middle
     else:
         full_name = (f"{first_name} {last_name}")#return full_name.title()
     return full_name.title()
-musician = get_formatted_name()#('jimi', 'hendrix')
-print(f"Hello!, {musician.title()}!")#('Привет, ' + musician)
+print(get_formatted_name())#('jimi', 'hendrix')
+#print(f"Hello!, {musician.title()}!")#('Привет, ' + musician)
