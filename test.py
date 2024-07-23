@@ -46,4 +46,4 @@ for name, response in responses.items():
     print(f"{name} would like to climb {response}.")
 
 
-print(%lsmagic)
+print(repeat)
