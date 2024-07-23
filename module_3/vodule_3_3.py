@@ -1,9 +1,13 @@
-def print_params(a=1, b='Строка', c=True):
+def print_params(a=1, b='One', c=True):
     print(a, b, c)
 
-values_list_2 = [54.32, 'Строка' ]
+values_list = [2, 'Two', False]
+values_list_2 = [3, 'Three']
+values_dict = {'a': 4, 'b': 'Four', 'c': False}
+
+print_params()
+print_params(*values_list)
+print_params(**values_dict)
 print_params(*values_list_2, 42)
-print_params(3, 2, 3)
-print_params(1, values_list_2)
-print_params(1, *values_list_2)
 print_params(b=25)
+print_params(c=[1,2,3])
