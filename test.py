@@ -29,22 +29,51 @@
 #     print(current_number)
 
 responses = {}
-  # Установка флага продолжения опроса.
-polling_active = True
-while polling_active:
-      # Запрос имени и ответа пользователя.
-    name = input("\nWhat is your name? ")
-    response = input("Which mountain would you like to climb someday? ")
-# Ответ сохраняется в словаре: ❷ responses[name] = response
-# Проверка продолжения опроса.
-    repeat = input("Would you like to let another person respond? (yes/ no) ")
-    if repeat == 'no':
-        polling_active = False
-  # Опрос завершен, вывести результаты.
-print("\n--- Poll Results ---")
-for name, response in responses.items():
-    print(f"{name} would like to climb {response}.")
+# Установка флага продолжения опроса.
+# polling_active = True
+# while polling_active:
+#     # Запрос имени и ответа пользователя.
+#     name = input("\nWhat is your name? ")
+#     response = input("Which mountain would you like to climb someday? ")
+#     # Ответ сохраняется в словаре: ❷ responses[name] = response
+#     # Проверка продолжения опроса.
+#     repeat = input("Would you like to let another person respond? (yes/ no) ")
+#     if repeat == 'no':
+#         polling_active = False
+# # Опрос завершен, вывести результаты.
+# print("\n--- Poll Results ---")
+# for name, response in responses.items():
+# #     print(f"{name} would like to climb {response}.")
+# #
+# # print(repeat)
+# # #test
+# records = [ ('foo', 1, 2), ('bar', 'hello'), ('foo', 3, 4), ]
+# def do_foo(x, y):
+#     print('foo', x, y)
+# def do_bar(s):
+#     print('bar', s)
+# for tag, *args in records:
+#     if tag == 'foo':
+#         do_foo(*args)
+#     elif tag == 'bar':
+#         do_bar(*args)
 
+# -*- coding: utf-8 -*-
 
-print(repeat)
-#test
+# pip install simple_draw
+
+# result = lambda x, y: x + y
+# print (result(5, 7))
+
+import calendar
+
+def create_calendar(year, month):
+    # Создаем текстовый календарь на заданный месяц и год
+    cal = calendar.TextCalendar(firstweekday=0)
+    return cal.formatmonth(year, month)
+
+# Пример использования функции
+year = 2024
+month = 7
+print(create_calendar(year, month))
+help(calendar)

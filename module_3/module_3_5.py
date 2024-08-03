@@ -1,8 +1,3 @@
-# def get_multiplied_digits(number):
-#     str_number = str[number]
-#     first = int(str_number)
-#     if
-#
 def get_multiplied_digits(number):
     str_number = str(number)
     first = int(str_number[0])
@@ -12,7 +7,13 @@ def get_multiplied_digits(number):
     else:
         return first
 
-result = get_multiplied_digits(40203)
+result = get_multiplied_digits(402030)
 result_1 = get_multiplied_digits(222)
 print(result)
 print(result_1)
+
+#endswith
+# if str(number).endswith('0'):
+#       str_number = str(number//10)
+#     else:
+#       str_number = str(number)
