@@ -18,8 +18,8 @@ class House:
 h1 = House('ЖК Эльбрус', 10)
 h2 = House('ЖК Акация', 20)
 
-print(str(h1)) # можно и так вызвать
-print(str(h2)) # можно и так вызвать
+print(str(h1)) # можно и так вызвать!
+print(str(h2)) # можно и так вызвать!
 print(h1)
 print(h2)
 print(len(h1))
