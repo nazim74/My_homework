@@ -15,7 +15,7 @@ class Sedan(Vehicle):
         return f"Модель: {self._model}"
 
     def get_horsepower(self):
-        return f"Мощность двигателя: {self._engine_power} лошадей"
+        return f"Мощность двигателя: {self._engine_power}"
 
     def get_color(self):
         return f"Цвет: {self._color}"
