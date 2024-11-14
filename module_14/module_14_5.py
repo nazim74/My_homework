@@ -15,7 +15,7 @@ import re
 initiate_db()
 
 # Инициализация бота
-api_key = "6601810404:AAEIG6q3uX7akLbehWQ368D44AqNsgA2j64"
+api_key = ""
 bot = Bot(token=api_key)
 dp = Dispatcher(bot, storage=MemoryStorage())
 
