@@ -14,44 +14,27 @@ async def main_page():
 async def admin_page():
     return "Вы вошли как администратор"
 
-# Маршрут для страниц пользователей по ID с валидацией user_id
+# Маршрут для страниц пользователей по ID с валидацией
 @app.get("/user/{user_id}")
 async def user_page(
     user_id: Annotated[
         int,
-        Path(
-            title="Enter User ID",
-            description="ID пользователя, который должен быть целым числом от 1 до 100",
-            ge=1,
-            le=100,
-            example=1,
-        ),
+        Path(ge=1, le=100, description="Enter User ID", example=1)
     ]
 ):
     return f"Вы вошли как пользователь № {user_id}"
 
-# Маршрут для информации о пользователе с валидацией username и age
+# Маршрут для информации о пользователе с валидацией
 @app.get("/user/{username}/{age}")
 async def user_info(
     username: Annotated[
         str,
-        Path(
-            title="Enter username",
-            description="Имя пользователя должно быть строкой длиной от 5 до 20 символов",
-            min_length=5,
-            max_length=20,
-            example="UrbanUser",
-        ),
+        Path(min_length=5, max_length=20, description="Enter username", example="UrbanUser")
     ],
     age: Annotated[
         int,
-        Path(
-            title="Enter age",
-            description="Возраст пользователя должен быть числом от 18 до 120",
-            ge=18,
-            le=120,
-            example=24,
-        ),
-    ],
+        Path(ge=18, le=120, description="Enter age", example=24)
+    ]
 ):
     return f"Информация о пользователе. Имя: {username}, Возраст: {age}."
+
